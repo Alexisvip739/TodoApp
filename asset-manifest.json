@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/TodoApp/static/css/main.422c0392.css",
-    "main.js": "/TodoApp/static/js/main.713fd6cd.js",
-    "index.html": "/TodoApp/index.html",
-    "static/media/delete.svg": "/TodoApp/static/media/delete.7018c4465589031bd51c8efbe21df9ca.svg",
-    "static/media/check.svg": "/TodoApp/static/media/check.e9a948bba52a34123d2ed7aeda0ea495.svg",
-    "main.422c0392.css.map": "/TodoApp/static/css/main.422c0392.css.map",
-    "main.713fd6cd.js.map": "/TodoApp/static/js/main.713fd6cd.js.map"
+    "main.css": "/curso-react-intro/static/css/main.f5c319a2.css",
+    "main.js": "/curso-react-intro/static/js/main.4804e872.js",
+    "index.html": "/curso-react-intro/index.html",
+    "static/media/delete.svg": "/curso-react-intro/static/media/delete.7018c4465589031bd51c8efbe21df9ca.svg",
+    "static/media/check.svg": "/curso-react-intro/static/media/check.e9a948bba52a34123d2ed7aeda0ea495.svg",
+    "main.f5c319a2.css.map": "/curso-react-intro/static/css/main.f5c319a2.css.map",
+    "main.4804e872.js.map": "/curso-react-intro/static/js/main.4804e872.js.map"
   },
   "entrypoints": [
-    "static/css/main.422c0392.css",
-    "static/js/main.713fd6cd.js"
+    "static/css/main.f5c319a2.css",
+    "static/js/main.4804e872.js"
   ]
 }
